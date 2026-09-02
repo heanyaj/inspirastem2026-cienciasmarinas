@@ -13,7 +13,7 @@ Syllabus & Recursos del Taller
 - [Requisitos previos](#requisitos-previos)
 - [Material de estudio preconferencia](#material-de-estudio-preconferencia)
 - [Estructura del repositorio](#estructura-del-repositorio)
-<!-- TODO: definir luego si aplica -->- [Cómo citar este repositorio](#cómo-citar-este-repositorio)
+<!-- TODO: definir luego si aplica - [Cómo citar este repositorio](#cómo-citar-este-repositorio) -->
 - [Contribuciones](#contribuciones)
 - [Licencia](#licencia)
 - [Contacto](#contacto)
@@ -163,22 +163,12 @@ Esta lectura es para que puedas familiarizarte con los fundamentos y el programa
 
 ---
 
-## Estructura del repositorio
+<!-- TODO: definir luego si aplica ## Cómo citar este repositorio
 
-```
-├── Dia 1/          # Presentación de fundamentos, guía de análisis de datos
-├── Dia 2/          # Imágenes para análisis, descripción de desafíos "Proyecto 1-5"
-├── Dia 3/          # Recursos para presentación y cierre
-└── README.md
-```
+Este taller está basado en la investigación previa de la instructora sobre conservación y gobernanza de tiburones. Si utilizas este material, por favor cita:
 
----
-
-<!-- TODO: definir luego si aplica --> ## Cómo citar este repositorio
-
-<!-- TODO: definir luego si aplica --> Este taller está basado en la investigación previa de la instructora sobre conservación y gobernanza de tiburones. Si utilizas este material, por favor cita:
-
-<!-- TODO: definir luego si aplica --> > Herrera, A. *HERRERA, Andrea. (2025). "Image-Based Identification of Blue Sharks in the Mid-Atlantic: Evaluating a Standardized Methodology for Long-Term Monitoring". Plentzia: Universidad del País Vasco, 2025, 34 p. Dissertação de Mestrado em Ciências Económicas e Empresariais. Disponível em http://hdl.handle.net/10400.3/8908*. Universidade dos Açores, disponible en: https://repositorio.uac.pt/handle/10400.3/8908
+> Herrera, A. *HERRERA, Andrea. (2025). "Image-Based Identification of Blue Sharks in the Mid-Atlantic: Evaluating a Standardized Methodology for Long-Term Monitoring". Plentzia: Universidad del País Vasco, 2025, 34 p. Dissertação de Mestrado em Ciências Económicas e Empresariais. Disponível em http://hdl.handle.net/10400.3/8908*. Universidade dos Açores, disponible en: https://repositorio.uac.pt/handle/10400.3/8908 
+-->
 
 ---
 
