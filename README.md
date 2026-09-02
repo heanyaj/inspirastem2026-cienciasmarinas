@@ -1,6 +1,6 @@
 # InspiraSTEM 2026 - Ciencias Marinas: Monitoreo de tiburones para su conservación
 
-Syllabus & Recursos del Workshop
+Syllabus & Recursos del Taller
 
 ## Índice
 
