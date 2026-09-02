@@ -37,7 +37,7 @@ Todo el contenido teórico, guías prácticas, imágenes de análisis y material
 | | |
 |---|---|
 | **Título** | Monitoreo de tiburones para su conservación: fotoidentificación y prácticas sostenibles |
-| **Fechas** | 19–21 de septiembre del 2026 |
+| **Fechas** | 19–21 de septiembre de 2026 |
 | **Instructora** | Andrea Herrera, MSc |
 | **Email** | andreaherrera.contact@gmail.com |
 | **Afiliación** | Early Career Ocean Professionals Centroamérica |
@@ -62,7 +62,7 @@ Más allá de las consecuencias ambientales, también existen las relacionadas c
 En este proyecto el objetivo es unir a los humanos y los tiburones, uniendo la ciencia y la gobernanza oceánica para proponer soluciones que consideren ambos aspectos. Estudiantes crearán grupos de trabajo donde:
 
 - Con la ayuda del programa **NeuralFin** (IA para la identificación de tiburones), los grupos analizarán imágenes de tiburón azul (*Prionace glauca*) para identificar individuos, familiarizarse con el modelo biométrico y la interpretación de resultados. Las imágenes serán proporcionadas el día del taller en formato `.jpg` y `.png` por la instructora, en colaboración con NeuralFin.
-- Con base en la identificación de estos individuos, cada equipo responderá una pregunta de conservación asignada (desafío "Proyecto 1-5", ver carpeta [`Dia-2`](./Dia-2)) y propondrá un plan de acción que una ciencia, arte y política marina para la preservación de la especie y su hábitat.
+- Con base en la identificación de estos individuos, cada equipo responderá una pregunta de conservación asignada (desafío "Proyecto 1-5", ver carpeta [`Dia 2`](./Dia 2)) y propondrá un plan de acción que una ciencia, arte y política marina para la preservación de la especie y su hábitat.
 
 **Especificaciones y materiales:**
 
@@ -95,7 +95,7 @@ En este proyecto el objetivo es unir a los humanos y los tiburones, uniendo la c
 - Creación de grupo de WhatsApp para discusión
 - Programa utilizado: **NeuralFin**
 
-Materiales en la carpeta [`Dia-1`](./Dia-1).
+Materiales en la carpeta [`Dia 1`](./Dia 1).
 
 ### Día 2: Actividad práctica
 
@@ -113,9 +113,9 @@ Preguntas para discusión durante el análisis de imagen con NeuralFin:
 
 *Recreo (10')*
 
-**Hora 2 (55'):** cada equipo desarrolla su desafío asignado ("Proyecto 1-5", ver carpeta [`Dia-2`](./Dia-2)), resolviéndolo desde la ciencia aplicada a la conservación de tiburones y el bienestar comunitario.
+**Hora 2 (55'):** cada equipo desarrolla su desafío asignado ("Proyecto 1-5", ver carpeta [`Dia 2`](./Dia 2)), resolviéndolo desde la ciencia aplicada a la conservación de tiburones y el bienestar comunitario.
 
-Materiales en la carpeta [`Dia-2`](./Dia-2).
+Materiales en la carpeta [`Dia 2`](./Dia 2).
 
 ### Día 3: Proyecto, presentación y cierre
 
@@ -130,7 +130,7 @@ Materiales en la carpeta [`Dia-2`](./Dia-2).
 
 **Hora 2 (55'):** presentaciones grupales y cierre del taller.
 
-Materiales en la carpeta [`Dia-3`](./Dia-3).
+Materiales en la carpeta [`Dia 3`](./Dia 3).
 
 ---
 
@@ -166,9 +166,9 @@ Esta lectura es para que puedas familiarizarte con los fundamentos y el programa
 ## Estructura del repositorio
 
 ```
-├── Dia-1/          # Presentación de fundamentos, guía de análisis de datos
-├── Dia-2/          # Imágenes para análisis, descripción de desafíos "Proyecto 1-5"
-├── Dia-3/          # Recursos para presentación y cierre
+├── Dia 1/          # Presentación de fundamentos, guía de análisis de datos
+├── Dia 2/          # Imágenes para análisis, descripción de desafíos "Proyecto 1-5"
+├── Dia 3/          # Recursos para presentación y cierre
 └── README.md
 ```
 
