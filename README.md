@@ -13,11 +13,10 @@ Syllabus & Recursos del Taller
 - [Requisitos previos](#requisitos-previos)
 - [Material de estudio preconferencia](#material-de-estudio-preconferencia)
 - [Estructura del repositorio](#estructura-del-repositorio)
-<!-- TODO: definir luego si aplica - [Cómo citar este repositorio](#cómo-citar-este-repositorio) -->
 - [Contribuciones](#contribuciones)
 - [Licencia](#licencia)
 - [Contacto](#contacto)
-
+<!-- TODO: definir luego si aplica - [Cómo citar este repositorio](#cómo-citar-este-repositorio) -->
 ---
 
 ## Descripción general
@@ -161,9 +160,9 @@ Esta lectura es para que puedas familiarizarte con los fundamentos y el programa
   - ES/Catalán — [Catálogo de Foto-Identificación del Tiburón Azul (*Prionace glauca*) en Cataluña, 2022–2025](https://www.sotamarsharktour.com/es/Catalogo-de-foto-identificacion-del-tiburon-Azul)
 - ES/EN — [Tiburones en el Pacífico Sudeste: desafíos para la conservación y el manejo en el Perú, 2026](https://drive.google.com/file/d/1P0TgpXPL-OhYMC0kVtXprigHEix9sbk9/view?usp=drive_link)
 
----
+<!-- --- 
 
-<!-- TODO: definir luego si aplica ## Cómo citar este repositorio
+TODO: definir luego si aplica ## Cómo citar este repositorio
 
 Este taller está basado en la investigación previa de la instructora sobre conservación y gobernanza de tiburones. Si utilizas este material, por favor cita:
 
