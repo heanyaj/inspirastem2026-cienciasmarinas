@@ -70,7 +70,7 @@ En este proyecto el objetivo es unir a los humanos y los tiburones, uniendo la c
 - Dos computadoras por equipo, con conexión a internet.
 - No es necesario descargar ningún programa.
 
-> ⚠️ **Importante:** las imágenes analizadas en este taller únicamente se utilizarán con fines educativos durante el taller. Está prohibido utilizar estas imágenes fuera de InspiraSTEM, bajo las reglas de propiedad y derechos de autor.
+> ⚠️ **Uso de imágenes:** las imágenes analizadas en este taller únicamente se utilizarán con fines educativos durante el taller. Está prohibido utilizar estas imágenes fuera de InspiraSTEM, bajo las reglas de propiedad y derechos de autor.
 
 **Entregable final:** presentación oral en formato de diapositivas (pitch con visuales, soluciones basadas en ciencia y arte). Cada equipo tiene la libertad de proponer otro tipo de presentación. Duración: 5 minutos mínimo, 10 máximo (incluye sesión de Q&A).
 
@@ -81,7 +81,7 @@ En este proyecto el objetivo es unir a los humanos y los tiburones, uniendo la c
 ### Día 1: Fundamentos sobre la identificación y conservación de tiburones
 
 **Duración:** 1 hora
-**Meta del día:** Comprender los conceptos básicos de la ecología y biología de tiburones, métodos de identificación, y cómo aplicar el conocimiento a casos de la vida real para su conservación.
+**Meta del día:** Comprender los conceptos básicos de la ecología y biología de tiburones, métodos de identificación y cómo aplicar el conocimiento a casos de la vida real para su conservación.
 
 **Temas / actividades:**
 
@@ -92,8 +92,8 @@ En este proyecto el objetivo es unir a los humanos y los tiburones, uniendo la c
   - Introducción y aplicación de herramientas de identificación como NeuralFin, y aplicaciones en casos de la vida real
   - Conservación y gobernanza oceánica: importancia y aplicaciones
   - Introducción de la data a analizar en el Día 2 y las instrucciones del proyecto (leer PDF "guía de análisis de datos")
-- Creación de grupo de WhatsApp para discusión
-- Programa utilizado: **NeuralFin**
+- - [Creación de grupo de WhatsApp para discusión](https://chat.whatsapp.com/CSX5ciIL7zmA4db7SES54P)
+- Programa utilizado: **[NeuralFin](https://www.neuralfin.org/)**
 
 Materiales en la carpeta [`Dia 1`](./Dia 1).
 
@@ -122,7 +122,7 @@ Materiales en la carpeta [`Dia 2`](./Dia 2).
 **Duración:** 2 horas
 **Meta del día:** Aprender a interpretar resultados y conectarlos a casos de la vida real. Los equipos conectan herramientas de fotoidentificación con desafíos actuales en la conservación de tiburones — ecología, economía, gobernanza regional, comunidad y ética de IA.
 
-> ⚠️ **Entrega de proyecto:** subir la diapositiva en formato PPTX o PDF al enlace de Google Drive proporcionado, a más tardar el Día 3 a las 12:00 mediodía.
+> ⚠️ **Entrega de proyecto:** subir la diapositiva en formato PPTX o PDF al [enlace de Google Drive](https://drive.google.com/drive/folders/12eha00aH_qkBk3-opMwSsvlUvHS2RBDG?usp=sharing), a más tardar el Día 3 a las 12:00 mediodía.
 
 **Hora 1 (55'):** discusión y últimos detalles de la presentación. Fecha límite de entrega al final de la hora.
 
@@ -151,15 +151,15 @@ Estudiantes universitarios cursando carreras de ciencias marinas y/o campos simi
 
 Esta lectura es para que puedas familiarizarte con los fundamentos y el programa de identificación que utilizaremos en el taller. Se recomienda leerlos con anticipación, ya que nuestro tiempo juntos será limitado.
 
-- ES — Estudio del caso del tiburón martillo (*Sphyrna* spp.) y pesca en El Salvador (2016)
-- ES — FAO pesca artesanal: Directrices voluntarias para lograr la sostenibilidad de la pesca en pequeña escala en el contexto de la seguridad alimentaria y la erradicación de la pobreza
-- ES — El comercio de tiburones de América Latina con Asia
+- ES — [Estudio del caso del tiburón martillo (*Sphyrna* spp.) y pesca en El Salvador (2016)](https://drive.google.com/file/d/1zh5oRpsRJWZgSVjimC9vRe1t8VlSJu7F/view?usp=sharing)
+- ES — [FAO pesca artesanal: Directrices voluntarias para lograr la sostenibilidad de la pesca en pequeña escala en el contexto de la seguridad alimentaria y la erradicación de la pobreza](https://drive.google.com/file/d/1Zjl1nCdL7uEnGVnFfsNHlq1r0hEVgh3i/view?usp=drive_link)
+- ES — [El comercio de tiburones de América Latina con Asia](https://drive.google.com/file/d/1lGdIOaUWr_-4TZqH6xK2-N9cU70-ROKY/view?usp=drive_link)
 - Fotoidentificación:
-  - EN — NeuralFin: familiarizarse con el modelo de automatización de fotoidentificación
-  - EN/PT — *Image-Based Identification of Blue Sharks in the Mid-Atlantic: Evaluating a Standardized Methodology for Long-Term Monitoring*, 2025
-  - EN — *The use and abuse of photographic identification in sharks and rays*, Andrea Marshall, 2012
-  - ES/Catalán — Catálogo de Foto-Identificación del Tiburón Azul (*Prionace glauca*) en Cataluña, 2022–2025
-- ES/EN — Tiburones en el Pacífico Sudeste: desafíos para la conservación y el manejo en el Perú, 2026
+  - EN — [NeuralFin: familiarizarse con el modelo de automatización de fotoidentificación](https://www.neuralfin.org/)
+  - EN/PT — [*Image-Based Identification of Blue Sharks in the Mid-Atlantic: Evaluating a Standardized Methodology for Long-Term Monitoring*, 2025](http://hdl.handle.net/10400.3/8908)
+  - EN — [*The use and abuse of photographic identification in sharks and rays*, Andrea Marshall, 2012](https://drive.google.com/file/d/1x65Ymfq4bsWBIccT8_BhE2ft-w47Q0Wx/view?usp=sharing)
+  - ES/Catalán — [Catálogo de Foto-Identificación del Tiburón Azul (*Prionace glauca*) en Cataluña, 2022–2025](https://www.sotamarsharktour.com/es/Catalogo-de-foto-identificacion-del-tiburon-Azul)
+- ES/EN — [Tiburones en el Pacífico Sudeste: desafíos para la conservación y el manejo en el Perú, 2026](https://drive.google.com/file/d/1P0TgpXPL-OhYMC0kVtXprigHEix9sbk9/view?usp=drive_link)
 
 ---
 
@@ -197,6 +197,6 @@ Este proyecto cumple con las regulaciones de derecho de autor y tiene la autoriz
 ## Contacto
 
 Andrea Herrera
-andreaherrera.contact@gmail.com
+[andreaherrera.contact@gmail.com](mailto:andreaherrera.contact@gmail.com)
 Early Career Ocean Professionals Central America
-www.andreaherreraocean.com
+[www.andreaherreraocean.com](http://www.andreaherreraocean.com)
