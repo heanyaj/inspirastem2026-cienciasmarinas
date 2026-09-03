@@ -33,7 +33,6 @@ Todo el contenido teórico, guías prácticas, imágenes de análisis y material
 
 ## Datos del workshop
 
-| | |
 |---|---|
 | **Título** | Monitoreo de tiburones para su conservación: fotoidentificación y prácticas sostenibles |
 | **Fechas** | 19–21 de septiembre de 2026 |
@@ -54,7 +53,7 @@ Todo el contenido teórico, guías prácticas, imágenes de análisis y material
 
 ## Descripción del proyecto de los estudiantes
 
-¿Cómo pueden herramientas e Inteligencia Artificial (IA) proteger a los tiburones? Antes de que los árboles existieran, los tiburones ya habitaban el océano. Existen más de 500 especies de tiburones, así como desafíos actuales y amenazas que están causando la extinción de muchas especies y la destrucción y/o deterioro de los ecosistemas que habitan.
+¿Cómo pueden herramientas y la Inteligencia Artificial (IA) proteger a los tiburones? Antes de que los árboles existieran, los tiburones ya habitaban el océano. Existen más de 500 especies de tiburones, así como desafíos actuales y amenazas que están causando la extinción de muchas especies y la destrucción y/o deterioro de los ecosistemas que habitan.
 
 Más allá de las consecuencias ambientales, también existen las relacionadas con el ámbito social. Se ha comprobado cómo los tiburones impulsan la economía de un país (ej., pesca, turismo) y los beneficios positivos para la ecología del océano: actúan como reguladores y son considerados especies clave. Amenazas como la pesca irresponsable y la gestión inadecuada de ecosistemas marinos también afectan la calidad de vida de cientos de comunidades que dependen de ellos y el bienestar de la sociedad.
 
@@ -189,3 +188,6 @@ Andrea Herrera
 [andreaherrera.contact@gmail.com](mailto:andreaherrera.contact@gmail.com)
 Early Career Ocean Professionals Central America
 [www.andreaherreraocean.com](http://www.andreaherreraocean.com) 
+
+---
+Este taller forma parte de la iniciativa InspiraSTEM 2025, enfocada en fortalecer habilidades científicas y técnicas para estudiantes universitarios en El Salvador y la comunidad latinoamericana.
