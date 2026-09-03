@@ -1,6 +1,6 @@
 # InspiraSTEM 2026 - Ciencias Marinas: Monitoreo de tiburones para su conservación
 
-# Syllabus & Recursos del Taller
+## ¡Bienvenidos y bienvenidas! Syllabus y Recursos del Taller
 
 
 ## Índice
@@ -186,10 +186,10 @@ Este proyecto cumple con las regulaciones de derecho de autor y tiene la autoriz
 
 ## Contacto
 
-Andrea Herrera
-[andreaherrera.contact@gmail.com](mailto:andreaherrera.contact@gmail.com)
-Early Career Ocean Professionals Central America
-[www.andreaherreraocean.com](http://www.andreaherreraocean.com) 
+Andrea Herrera<br>
+[andreaherrera.contact@gmail.com](mailto:andreaherrera.contact@gmail.com)<br>
+Early Career Ocean Professionals Central America<br>
+[www.andreaherreraocean.com](http://www.andreaherreraocean.com)
 
 ---
 ## Este taller forma parte de la iniciativa InspiraSTEM 2025, enfocada en fortalecer habilidades científicas y técnicas para estudiantes universitarios en El Salvador y la comunidad latinoamericana.
