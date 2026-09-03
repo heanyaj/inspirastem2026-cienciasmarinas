@@ -33,6 +33,7 @@ Todo el contenido teórico, guías prácticas, imágenes de análisis y material
 
 ## Datos del workshop
 
+| | |
 |---|---|
 | **Título** | Monitoreo de tiburones para su conservación: fotoidentificación y prácticas sostenibles |
 | **Fechas** | 19–21 de septiembre de 2026 |
