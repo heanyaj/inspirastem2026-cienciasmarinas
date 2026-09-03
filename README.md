@@ -192,4 +192,4 @@ Early Career Ocean Professionals Central America<br>
 [www.andreaherreraocean.com](http://www.andreaherreraocean.com)
 
 ---
-### Este taller forma parte de la iniciativa InspiraSTEM 2026, enfocada en fortalecer habilidades científicas y técnicas para estudiantes universitarios en El Salvador y la comunidad latinoamericana.
+**Este taller forma parte de la iniciativa InspiraSTEM 2026, enfocada en fortalecer habilidades científicas y técnicas para estudiantes universitarios en El Salvador y la comunidad latinoamericana.**
