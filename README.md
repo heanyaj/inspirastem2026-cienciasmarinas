@@ -80,14 +80,14 @@ En este proyecto el objetivo es unir a los humanos y los tiburones, uniendo la c
 
 ### Día 1: Fundamentos sobre la identificación y conservación de tiburones
 
-**Duración:** 1 hora
+**Duración:** 2 horas | 1:00-3:00 PM
 **Meta del día:** Comprender los conceptos básicos de la ecología y biología de tiburones, métodos de identificación y cómo aplicar el conocimiento a casos de la vida real para su conservación.
 
 **Temas / actividades:**
 
-- Actividad rompehielos (máx. 15')
-- Introducción de la instructora (5')
-- Fundamentos y creación de grupos de trabajo — PPTX (40')
+- Actividad rompehielos 
+- Introducción de la instructora 
+- Fundamentos y creación de grupos de trabajo — PPTX 
   - Sobre tiburones y su importancia
   - Introducción y aplicación de herramientas de identificación como NeuralFin, y aplicaciones en casos de la vida real
   - Conservación y gobernanza oceánica: importancia y aplicaciones
@@ -99,7 +99,7 @@ Materiales en la carpeta [`Dia 1`](./Dia 1).
 
 ### Día 2: Actividad práctica
 
-**Duración:** 2 horas
+**Duración:** 2 horas | 1:00-3:00 PM
 **Meta del día:** Aprender a utilizar herramientas de fotoidentificación de tiburones y sus aplicaciones. Arranca el trabajo en equipo "Desafíos y Soluciones".
 
 **Hora 1 (55'):** cada equipo aplica los conocimientos del Día 1 sobre protocolos de análisis de imagen, utilizando modelos biométricos de IA. La carpeta con las imágenes será entregada por la instructora el mismo día del taller.
@@ -119,7 +119,7 @@ Materiales en la carpeta [`Dia 2`](./Dia 2).
 
 ### Día 3: Proyecto, presentación y cierre
 
-**Duración:** 2 horas
+**Duración:** 2 horas | 1:00-3:00 PM
 **Meta del día:** Aprender a interpretar resultados y conectarlos a casos de la vida real. Los equipos conectan herramientas de fotoidentificación con desafíos actuales en la conservación de tiburones — ecología, economía, gobernanza regional, comunidad y ética de IA.
 
 > ⚠️ **Entrega de proyecto:** subir la diapositiva en formato PPTX o PDF al [enlace de Google Drive](https://drive.google.com/drive/folders/12eha00aH_qkBk3-opMwSsvlUvHS2RBDG?usp=sharing), a más tardar el Día 3 a las 12:00 mediodía.
