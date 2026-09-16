@@ -55,14 +55,14 @@ Todo el contenido teórico, guías prácticas, imágenes de análisis y material
 
 ## Descripción del proyecto de los estudiantes
 
-¿Cómo pueden herramientas y la Inteligencia Artificial (IA) proteger a los tiburones? Antes de que los árboles existieran, los tiburones ya habitaban el océano. Existen más de 500 especies de tiburones, así como desafíos actuales y amenazas que están causando la extinción de muchas especies y la destrucción y/o deterioro de los ecosistemas que habitan.
+¿Cómo pueden las herramientas y la inteligencia artificial (IA) proteger a los tiburones? Antes de que los árboles existieran, los tiburones ya habitaban el océano. Existen más de 500 especies de tiburones, así como desafíos actuales y amenazas que están causando la extinción de muchas especies y la destrucción y/o deterioro de los ecosistemas que habitan.
 
 Más allá de las consecuencias ambientales, también existen las relacionadas con el ámbito social. Se ha comprobado cómo los tiburones impulsan la economía de un país (ej., pesca, turismo) y los beneficios positivos para la ecología del océano: actúan como reguladores y son considerados especies clave. Amenazas como la pesca irresponsable y la gestión inadecuada de ecosistemas marinos también afectan la calidad de vida de cientos de comunidades que dependen de ellos y el bienestar de la sociedad.
 
 En este proyecto el objetivo es unir a los humanos y los tiburones, uniendo la ciencia y la gobernanza oceánica para proponer soluciones que consideren ambos aspectos. Estudiantes crearán grupos de trabajo donde:
 
-- Con la ayuda del programa **NeuralFin** (IA para la identificación de tiburones), los grupos analizarán imágenes de tiburón azul (*Prionace glauca*) para identificar individuos, familiarizarse con el modelo biométrico y la interpretación de resultados. Las imágenes serán proporcionadas el día del taller en formato `.jpg` y `.png` por la instructora, en colaboración con NeuralFin.
-- Con base en la identificación de estos individuos, cada equipo responderá una pregunta de conservación asignada (desafío "Proyecto 1-5", ver carpeta [`Dia 2`](./Dia 2)) y propondrá un plan de acción que una ciencia, arte y política marina para la preservación de la especie y su hábitat.
+- Con la ayuda de la plataforma creada por Shark Search Foundation **Shark Atlas** (modelo biométrico para la identificación de tiburones), los grupos analizarán imágenes de tiburón azul (*Prionace glauca*) para identificar individuos, familiarizarse con el modelo biométrico y la interpretación de resultados. Las imágenes serán proporcionadas el día del taller en formato `.jpg` y `.png` por la instructora, en colaboración con NeuralFin.
+- Con base en la identificación de estos individuos, cada equipo responderá una pregunta de conservación asignada (desafío "Proyecto 1-5", ver carpeta [`Dia 2`](./Dia 2)) y propondrá un plan de acción que una ciencia, arte y política marina para la preservación de la especie y su hábitat. **PRIMERO DEBES DESCARGAR ARCHIVO PDF PARA ACCEDER A LOS LINKS**
 
 **Especificaciones y materiales:**
 
@@ -93,7 +93,7 @@ En este proyecto el objetivo es unir a los humanos y los tiburones, uniendo la c
   - Conservación y gobernanza oceánica: importancia y aplicaciones
   - Introducción de la data a analizar en el Día 2 y las instrucciones del proyecto (leer PDF "guía de análisis de datos")
 - - [Creación de grupo de WhatsApp para discusión](https://chat.whatsapp.com/CSX5ciIL7zmA4db7SES54P)
-- Programa utilizado: **[NeuralFin](https://www.neuralfin.org/)**
+- Programa utilizado: **[Shark Search Foundation](https://www.sharksearchfoundation.org/)**
 
 Materiales en la carpeta [`Dia 1`](./Dia 1).
 
@@ -107,9 +107,10 @@ Materiales en la carpeta [`Dia 1`](./Dia 1).
 Preguntas para discusión durante el análisis de imagen con NeuralFin:
 
 1. ¿Qué piensas cuando escuchas la palabra "modelo biométrico"?
-2. ¿Se te hace fácil navegar el programa?
-3. ¿De qué forma te proyectas utilizando una herramienta como esta?
-4. ¿En qué rol te imaginas? (programación y creación de estas herramientas, o como oficial haciendo uso de ellas para la conservación de tiburones)
+2. ¿Se te hace fácil navegar por el programa?
+3. ¿Te gustaría ver algo diferente en este tipo de herramientas?
+4. ¿En qué tipo de proyectos te imaginas utilizando una herramienta como esta?
+5. ¿En qué rol te imaginas a ti? (programación y creación de estas herramientas, o como oficial haciendo uso de ellas para la conservación de tiburones)
 
 *Recreo (10')*
 
@@ -155,7 +156,7 @@ Esta lectura es para que puedas familiarizarte con los fundamentos y el programa
 - ES — [FAO pesca artesanal: Directrices voluntarias para lograr la sostenibilidad de la pesca en pequeña escala en el contexto de la seguridad alimentaria y la erradicación de la pobreza](https://drive.google.com/file/d/1Zjl1nCdL7uEnGVnFfsNHlq1r0hEVgh3i/view?usp=drive_link)
 - ES — [El comercio de tiburones de América Latina con Asia](https://drive.google.com/file/d/1lGdIOaUWr_-4TZqH6xK2-N9cU70-ROKY/view?usp=drive_link)
 - Fotoidentificación:
-  - EN — [NeuralFin: familiarizarse con el modelo de automatización de fotoidentificación](https://www.neuralfin.org/)
+  - EN — [Shark Atlas: familiarizarse con el modelo de automatización de fotoidentificación](https://www.sharksearchfoundation.org/)
   - EN/PT — [*Image-Based Identification of Blue Sharks in the Mid-Atlantic: Evaluating a Standardized Methodology for Long-Term Monitoring*, 2025](http://hdl.handle.net/10400.3/8908)
   - EN — [*The use and abuse of photographic identification in sharks and rays*, Andrea Marshall, 2012](https://drive.google.com/file/d/1x65Ymfq4bsWBIccT8_BhE2ft-w47Q0Wx/view?usp=sharing)
   - ES/Catalán — [Catálogo de Foto-Identificación del Tiburón Azul (*Prionace glauca*) en Cataluña, 2022–2025](https://www.sotamarsharktour.com/es/Catalogo-de-foto-identificacion-del-tiburon-Azul)
