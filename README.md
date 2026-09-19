@@ -94,6 +94,7 @@ En este proyecto el objetivo es unir a los humanos y los tiburones, uniendo la c
   - Introducción de la data a analizar en el Día 2 y las instrucciones del proyecto (leer PDF "guía de análisis de datos")
 - - [Creación de grupo de WhatsApp para discusión](https://chat.whatsapp.com/CSX5ciIL7zmA4db7SES54P)
 - Programa utilizado: **[Shark Search Foundation](https://www.sharksearchfoundation.org/)**
+- **Folder Google Drive**: https://drive.google.com/drive/folders/1xINcaX0O1eozKSYefvDFlpnLXt49Twv0?usp=sharing
 
 Materiales en la carpeta [`Dia 1`](./Dia 1).
 
