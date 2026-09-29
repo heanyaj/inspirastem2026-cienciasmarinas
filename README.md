@@ -189,7 +189,7 @@ Este taller está basado en la investigación previa de la instructora sobre con
 
 ## Licencia
 
-Este proyecto cumple con las regulaciones de derecho de autor y tiene la autorización de NeuralFin. Las imágenes utilizadas en el taller son de uso exclusivamente educativo y no deben reutilizarse fuera de InspiraSTEM.
+Este proyecto cumple con las regulaciones de derecho de autor y tiene la autorización de Shark Search Foundation. Las imágenes utilizadas en el taller son de uso exclusivamente educativo y no deben reutilizarse fuera de InspiraSTEM.
 
 ---
 
