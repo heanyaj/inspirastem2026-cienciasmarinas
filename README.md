@@ -105,7 +105,7 @@ Materiales en la carpeta [`Dia 1`](./Dia 1).
 
 **Hora 1 (55'):** cada equipo aplica los conocimientos del Día 1 sobre protocolos de análisis de imagen, utilizando modelos biométricos de IA. La carpeta con las imágenes será entregada por la instructora el mismo día del taller.
 
-Preguntas para discusión durante el análisis de imagen con NeuralFin:
+Preguntas para discusión durante el análisis de imagen con Shark Search Atlas:
 
 1. ¿Qué piensas cuando escuchas la palabra "modelo biométrico"?
 2. ¿Se te hace fácil navegar por el programa?
@@ -117,7 +117,14 @@ Preguntas para discusión durante el análisis de imagen con NeuralFin:
 
 **Hora 2 (55'):** cada equipo desarrolla su desafío asignado ("Proyecto 1-5", ver carpeta [`Dia 2`](./Dia 2)), resolviéndolo desde la ciencia aplicada a la conservación de tiburones y el bienestar comunitario.
 
-Materiales en la carpeta [`Dia 2`](./Dia 2).
+**Proyectos temáticas**
+1. Pesca incidental (Bycatch)
+2. Comercio de aletas y trazabilidad (CITES)
+3. Conectividad regional y rutas migratorias
+4. Comunidades costeras y economía
+5. Ética y límites de la IA en conservación de tiburones
+
+Encuentra los materiales en la carpeta [`Dia 2`](./Dia 2).
 
 ### Día 3: Proyecto, presentación y cierre
 
