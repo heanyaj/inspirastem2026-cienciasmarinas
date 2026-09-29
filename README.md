@@ -145,7 +145,7 @@ Materiales en la carpeta [`Dia 3`](./Dia 3).
 
 ## Software necesario
 
-- **NeuralFin** (plataforma web de fotoidentificación por IA) — no requiere instalación ni descarga, solo conexión a internet.
+- **Shark Search Atlas** (plataforma web de fotoidentificación por IA) — no requiere instalación ni descarga, solo conexión a internet.
 - Navegador web actualizado en cada computadora del equipo.
 
 ---
